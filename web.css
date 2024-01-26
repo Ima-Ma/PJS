@@ -1,0 +1,19 @@
+#btn-main{
+    font-size: 24px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+#haeding{
+    text-align: center;
+    font-size: 42px;
+}
+#para{
+    font-size: 25px;
+}
+.card{
+    display:inline-block ;
+}
+#pic{
+    height: 200px;
+}
